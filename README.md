@@ -1,0 +1,3 @@
+This notebook is a simple EDA exercise for 'FoodHub' to explore data relationships across 1900 orders to better understand demand patterns, operational performance, and revenue drivers, with the goal of lifting customer satisfaction and platform efficiency.
+The analysis showed that order volumes are concentrated among a small number of high-performing restaurants and popular cuisines, with revenue driven by higher-value orders. Food preparation and delivery times are generally consistent, though weekday deliveries are slower, and longer service times are linked to lower ratings. Notably, 39% of orders received no customer rating.
+There is an accompanying .csv dataset if you want to explore this EDA yourself. 
